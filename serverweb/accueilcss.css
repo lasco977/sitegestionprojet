@@ -1,0 +1,72 @@
+/* accuilcss file  */
+body{
+    background-color: #000000;
+    color : white;
+}
+img{
+    width: 20%;
+}
+#image1{
+    float:right;
+    right :50%;
+    display: block;
+    margin-right : 150px;
+    margin-bottom : 20px;
+}
+#image2{
+    float:left;
+    margin-left: 130px;
+    margin-top :20px;
+    background-color: #000011
+}
+#paragraphe2{
+    float:right;
+    width : 500px;
+    font-size : 25px;
+}
+#paragraphe1{
+    float:left;
+    display:block;
+    text-align: justify;
+    width : 500px;
+    font-size : 30px;
+}
+#entete{
+    font-size: 40px;
+    text-align: center;
+    color:#E1CE9A
+}
+#barmenu{
+    text-align:center;
+    font-size: 35px;
+}
+
+#paragraphe3{
+    font-size:25px;
+}
+
+#paragraphe4{
+    font-size:20px;
+    color: #FFCB60;
+    text-align:jusify;
+}
+#titreapropos{
+    font-size:40px;
+    color:#DE3163;
+    text-align: justify;
+}
+
+.listeprojet{
+    font-size:25px; 
+    color: #FFFFDD;
+   
+}
+
+.listelien{
+    color: #FFFFDD;
+}
+
+a:visited{
+    color:#CECECE;
+}
+
